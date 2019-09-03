@@ -2,10 +2,17 @@
 ## _Technical Skills Resume_
 
 You can use the [editor on GitHub](https://github.com/okh252/techskillsresume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 ### GitHub Training 
-
-
+ - First Day on Github Training Completed
+    - Learned about the resources and benefits of utilizing GitHub
+    - Practiced Markdown methods
+    - Uploading previous projects to GitHub 
+ - First Week on Github Training Completed 
+    - Educated on the GitHub Pages feature 
+    - Completed Activities on managing Pull requests
+    - Learned how to manage merging conflicts 
+ - Created GitHub repository to house technical resume 
+ 
 
 ### PowerBi Training 
 
