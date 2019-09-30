@@ -15,7 +15,8 @@ GitHub Training gave users the opportunity to become more familar with their ser
  - Created GitHub repository to house technical resume 
  
 
-### PowerBi Training 
+### Power BI Training 
+Power BI Training via edx.org gives users an introduction about the endless possibilities with this Microsoft service. It involves multiple labs and videos to gain knowledge over the features of Power BI Desktop and Power BI Online. Users learned everything from accessing data from different sources to creating visualizations in reports and dashboards. 
 
 
 
