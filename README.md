@@ -4,11 +4,11 @@
 ### GitHub Training  
 GitHub Training gave users the opportunity to become more familar with their service through various activites. This program walks users through how to update and create projects, as well as collaborate with other individuals on teams. Some skills touched on in this training are the use of Markdown, Jekyll and GitHub Pages. 
 
- - First Day on Github Training Completed
+ -  [First Day on Github Training Completed](https://lab.github.com/githubtraining/paths/first-day-on-github)
     - Learned about the resources and benefits of utilizing GitHub
     - Practiced Markdown methods
     - Uploading previous projects to GitHub 
- - First Week on Github Training Completed 
+ - [First Week on Github Training Completed](https://lab.github.com/githubtraining/paths/first-week-on-github)
     - Educated on the GitHub Pages feature 
     - Completed Activities on managing Pull requests
     - Learned how to manage merging conflicts 
