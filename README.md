@@ -42,6 +42,8 @@ GitHub Training gave users the opportunity to become more familar with their ser
  - Mobile App 
     - Learned about the capabilities of Power BI on Apple and Android products 
 
+[Screen Shot 2019-09-23 at 9.27.18 PM.pdf](https://github.com/okh252/techskillsresume/files/3674072/Screen.Shot.2019-09-23.at.9.27.18.PM.pdf)
+
  #### Key Deliverables 
  - Created dashboard based off of "Customer Profitability" Data provided by Microsoft 
  ![0001](https://user-images.githubusercontent.com/54654991/65926661-f62c5200-e3bb-11e9-8fd8-102b2bd97321.jpg)
