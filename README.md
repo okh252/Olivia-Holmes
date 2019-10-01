@@ -1,4 +1,3 @@
-# Olivia Holmes
 ## _Technical Skills Resume_
 
 ### GitHub Training  
