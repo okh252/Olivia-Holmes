@@ -44,7 +44,7 @@ GitHub Training gave users the opportunity to become more familar with their ser
 
  #### Key Deliverables 
  - Created dashboard based off of "Customer Profitability" Data provided by Microsoft 
- <a href="/techskillsresume." class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+ ![0001](https://user-images.githubusercontent.com/54654991/65926661-f62c5200-e3bb-11e9-8fd8-102b2bd97321.jpg)
  - Published video explaining information on Customer Profitiability dashboard. This video can be found [_here_](https://youtu.be/aT6eyjUjpxE). 
  
 
