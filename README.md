@@ -43,7 +43,8 @@ GitHub Training gave users the opportunity to become more familar with their ser
     - Learned about the capabilities of Power BI on Apple and Android products 
 
  #### Key Deliverables 
- - Created dashboard based off of "Customer Profitability" Data provided by Microsoft
+ - Created dashboard based off of "Customer Profitability" Data provided by Microsoft 
+ <a href="/techskillsresume." class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
  - Published video explaining information on Customer Profitiability dashboard. This video can be found [_here_](https://youtu.be/aT6eyjUjpxE). 
  
 
