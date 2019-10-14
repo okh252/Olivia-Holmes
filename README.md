@@ -79,7 +79,9 @@ GitHub Training gave users the opportunity to become more familar with their ser
    - Special Directories and Files 
    
 #### Key Deliverable 
-Upon Completion of the Videos and the Hands-on Labs, 
+Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to be passed at 70%.
+
+![Certification](https://user-images.githubusercontent.com/54654991/66728605-81213980-ee0b-11e9-98bc-1de44efd9607.png)
 
 ### IPsec and Open VPN Server Build 
 
