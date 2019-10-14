@@ -48,7 +48,38 @@ GitHub Training gave users the opportunity to become more familar with their ser
  ![0001](https://user-images.githubusercontent.com/54654991/65926661-f62c5200-e3bb-11e9-8fd8-102b2bd97321.jpg)
  - Published video explaining information on Customer Profitiability dashboard. This video can be found [_here_](https://youtu.be/aT6eyjUjpxE). 
  
+### LPI Linux Essentials 
+[_Linux Academy's LPI Linux Essentials_](https://linuxacademy.com/cp/modules/view/id/346) training program was completed. This offered a high level look at the Linux Operating System through self guided videos and hands-on labs. Offered an introduction into using commands within Terminal on the MacOSX Operating System. 
 
+
+#### Training and Labs Completed 
+- Linux Community and a Career in Open Source
+   - Linux Evolution and Operating Systems
+   - Major Open-Source Applications
+   - Open Source Software and Licensing 
+   - ICT Skills and Working in Linux
+- Finding your Way on a Linux System 
+   - Command Line Basics 
+   - Using the Command Line to Get Help 
+   - Using Directories and Listing Files 
+   - Creating, Moving, and Deleting Files 
+- The Power of the COmmand Line 
+   - Archiving Files on Command Line 
+   - Searching and Extraacting Data from Files 
+   - Turing COmmands into a Script 
+- The Linux Operating System 
+   - Choosing an Operating Systme 
+   - Understanding Computer Hardware 
+   - Where Data is Stored 
+   - Your Computer on the Network 
+- Security and File Permissions 
+   - Basic Security and Identifiying User Types 
+   - Creating Groups and Users
+   - Managing File Permissions and Ownership 
+   - Special Directories and Files 
+   
+#### Key Deliverable 
+Upon Completion of the Videos and the Hands-on Labs, 
 
 ### IPsec and Open VPN Server Build 
 
