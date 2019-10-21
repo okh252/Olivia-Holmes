@@ -18,9 +18,8 @@
 
 ### Power BI Training 
 [_Analyzing and Visualizing Data_](https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2019/course/) via edx.org gives users an introduction about the endless possibilities with this Microsoft service. It involves multiple labs and videos to gain knowledge over the features of Power BI Desktop and Power BI Online. Users learned everything from accessing data from different sources to creating visualizations in reports and dashboards. 
-<details open>
- <summary> Training Videos and Labs Completed </summary> 
- 
+<details>
+ <summary> Training Videos and Labs Completed </summary>
    - Power BI Desktop Data Transformations
       - Focused on imrpving data quality in order to make meaningful visualations 
       - Included typifying columnns, sliptting columns, and merging queries 
