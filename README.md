@@ -44,7 +44,6 @@ GitHub Training gave users the opportunity to become more familar with their ser
 
 <summary> Certification </summary> 
 <details> 
-  
 ![Training Completion Verification](https://user-images.githubusercontent.com/54654991/65929035-e87bca00-e3c5-11e9-90ec-5ceb307854f6.jpg)
 </details> 
 
