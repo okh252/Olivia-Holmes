@@ -42,12 +42,19 @@ GitHub Training gave users the opportunity to become more familar with their ser
   - Mobile App 
     - Learned about the capabilities of Power BI on Apple and Android products 
 
+<summary> Certification </summary> 
+<details> 
+  
 ![Training Completion Verification](https://user-images.githubusercontent.com/54654991/65929035-e87bca00-e3c5-11e9-90ec-5ceb307854f6.jpg)
+</details> 
 
- #### Key Deliverables 
+<summary> Key Deliverables </summary>
+<details>
+  
  - Created dashboard based off of "Customer Profitability" Data provided by Microsoft 
  ![0001](https://user-images.githubusercontent.com/54654991/65926661-f62c5200-e3bb-11e9-8fd8-102b2bd97321.jpg)
  - Published video explaining information on Customer Profitiability dashboard. This video can be found [_here_](https://youtu.be/aT6eyjUjpxE). 
+ </details>
  
 ### LPI Linux Essentials 
 [_Linux Academy's LPI Linux Essentials_](https://linuxacademy.com/cp/modules/view/id/346) training program was completed. This offered a high level look at the Linux Operating System through self guided videos and hands-on labs. Offered an introduction into using commands within Terminal on the MacOSX Operating System. 
@@ -78,16 +85,21 @@ GitHub Training gave users the opportunity to become more familar with their ser
      - Managing File Permissions and Ownership 
      - Special Directories and Files 
 
-#### Key Deliverable 
-Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to be passed at 70%.
+<summary> Key Deliverable </summary>
 
+<details> 
+Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to be passed at 70%.
+  
 ![Certification](https://user-images.githubusercontent.com/54654991/66728605-81213980-ee0b-11e9-98bc-1de44efd9607.png)
+</details>
 
 ### IPsec and Open VPN Server Build 
 Created a VPN Server using Ubunut and Virtual Box. 
-
+<summary> Proof </summary> 
+<details>
+  
 ![photo](https://user-images.githubusercontent.com/54654991/67241754-a1f41b00-f419-11e9-84c8-9cd6911450bd.jpg)
-
+</details>
 ### Amazon Web Services Training (AWS) 
 
 
