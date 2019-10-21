@@ -84,8 +84,9 @@ Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to
 ![Certification](https://user-images.githubusercontent.com/54654991/66728605-81213980-ee0b-11e9-98bc-1de44efd9607.png)
 
 ### IPsec and Open VPN Server Build 
+Created a VPN Server using Ubunut and Virtual Box. 
 
-
+![photo](https://user-images.githubusercontent.com/54654991/67241754-a1f41b00-f419-11e9-84c8-9cd6911450bd.jpg)
 
 ### Amazon Web Services Training (AWS) 
 
