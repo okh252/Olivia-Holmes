@@ -90,7 +90,7 @@ Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to
 
 
 ### IPsec and Open VPN Server Build 
-Created a VPN Server using Ubunut and Virtual Box. 
+Created a VPN Algo Server using Ubuntu and Virtual Box. 
 
 ![photo](https://user-images.githubusercontent.com/54654991/67241754-a1f41b00-f419-11e9-84c8-9cd6911450bd.jpg)
 
