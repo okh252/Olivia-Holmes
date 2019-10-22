@@ -19,17 +19,17 @@ GitHub Training gave users the opportunity to become more familar with their ser
 <details>
 <summary> Training Videos and Labs Completed </summary>
   <ul><li> Power BI Desktop Data Transformations </li>
-    - Focused on imrpving data quality in order to make meaningful visualations 
+    - Focused on imrpving data quality in order to make meaningful visualations <br>
     - Included typifying columnns, sliptting columns, and merging queries 
   <li> Power BI Desktop Modeling  </li>
-    - Emphasized how to utilize tables and data relationships
-    - Learned how to utilize the measure function for data to improve quality 
-    - Created Calculated Columns based off of Data given
+    - Emphasized how to utilize tables and data relationships <br>
+    - Learned how to utilize the measure function for data to improve quality <br>
+    - Created Calculated Columns based off of Data given <br>
   <li> Power BI Desktop Visualiztion </li>
-    - Focused on how to best organize Data as it is imported, including 
-      - How to Align Data 
-      - Hierarchies within the Data 
-      - Visual Relationships between Data 
+    - Focused on how to best organize Data as it is imported, including <br>
+      - How to Align Data <br>
+      - Hierarchies within the Data <br>
+      - Visual Relationships between Data <br>
   <li> Power BI Service </li>
     - Educated on how to feature Questions, Share a Dashbaord, and how to upload information onto the Power BI service 
   <li> Working with Excel </li>
@@ -57,29 +57,29 @@ GitHub Training gave users the opportunity to become more familar with their ser
  <summary>Training and Labs Completed </summary>
  <details>
   <ul><li> Linux Community and a Career in Open Source</li>
-     - Linux Evolution and Operating Systems
-     - Major Open-Source Applications
-     - Open Source Software and Licensing 
-     - ICT Skills and Working in Linux
+     - Linux Evolution and Operating Systems <br>
+     - Major Open-Source Applications <br>
+     - Open Source Software and Licensing  <br>
+     - ICT Skills and Working in Linux <br>
   <li> Finding your Way on a Linux System </li>
-     - Command Line Basics 
-     - Using the Command Line to Get Help 
-     - Using Directories and Listing Files 
-     - Creating, Moving, and Deleting Files 
-  <li> The Power of the COmmand Line </li>
-     - Archiving Files on Command Line 
-     - Searching and Extraacting Data from Files 
-     - Turing COmmands into a Script 
+     - Command Line Basics <br>
+     - Using the Command Line to Get Help <br>
+     - Using Directories and Listing Files <br>
+     - Creating, Moving, and Deleting Files <br>
+  <li> The Power of the Command Line </li>
+     - Archiving Files on Command Line <br>
+     - Searching and Extraacting Data from Files <br>
+     - Turing COmmands into a Script <br>
   <li> The Linux Operating System </li>
-     - Choosing an Operating Systme 
-     - Understanding Computer Hardware 
-     - Where Data is Stored 
-     - Your Computer on the Network 
+     - Choosing an Operating Systme <br>
+     - Understanding Computer Hardware <br>
+     - Where Data is Stored <br>
+     - Your Computer on the Network <br>
   <li> Security and File Permissions </li>
-     - Basic Security and Identifiying User Types 
-     - Creating Groups and Users
-     - Managing File Permissions and Ownership 
-     - Special Directories and Files
+     - Basic Security and Identifiying User Types <br>
+     - Creating Groups and Users <br>
+     - Managing File Permissions and Ownership <br>
+     - Special Directories and Files <br>
   </ul> 
   </details>
 
@@ -91,11 +91,9 @@ Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to
 
 ### IPsec and Open VPN Server Build 
 Created a VPN Server using Ubunut and Virtual Box. 
-<summary> Proof </summary> 
-<details>
-  
+
 ![photo](https://user-images.githubusercontent.com/54654991/67241754-a1f41b00-f419-11e9-84c8-9cd6911450bd.jpg)
-</details>
+
 ### Amazon Web Services Training (AWS) 
 
 
