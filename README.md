@@ -53,10 +53,10 @@ GitHub Training gave users the opportunity to become more familar with their ser
  
 ### LPI Linux Essentials 
 [_Linux Academy's LPI Linux Essentials_](https://linuxacademy.com/cp/modules/view/id/346) training program was completed. This offered a high level look at the Linux Operating System through self guided videos and hands-on labs. Offered an introduction into using commands within Terminal on the MacOSX Operating System. 
-
- <summary>Training and Labs Completed </summary>
+ 
  <details>
-  <ul><li> Linux Community and a Career in Open Source</li>
+  <summary>Training and Labs Completed </summary>
+ <ul><li> Linux Community and a Career in Open Source</li>
      - Linux Evolution and Operating Systems <br>
      - Major Open-Source Applications <br>
      - Open Source Software and Licensing  <br>
