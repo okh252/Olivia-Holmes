@@ -16,75 +16,72 @@ GitHub Training gave users the opportunity to become more familar with their ser
 
 ### Power BI Training 
 [_Analyzing and Visualizing Data_](https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2019/course/) via edx.org gives users an introduction about the endless possibilities with this Microsoft service. It involves multiple labs and videos to gain knowledge over the features of Power BI Desktop and Power BI Online. Users learned everything from accessing data from different sources to creating visualizations in reports and dashboards. 
-
-#### Training Videos and Labs Completed
-  - Power BI Desktop Data Transformations
+<details>
+<summary> Training Videos and Labs Completed </summary>
+  <ul><li> Power BI Desktop Data Transformations </li>
     - Focused on imrpving data quality in order to make meaningful visualations 
     - Included typifying columnns, sliptting columns, and merging queries 
-  - Power BI Desktop Modeling 
+  <li> Power BI Desktop Modeling  </li>
     - Emphasized how to utilize tables and data relationships
     - Learned how to utilize the measure function for data to improve quality 
     - Created Calculated Columns based off of Data given
-  - Power BI Desktop Visualiztion 
+  <li> Power BI Desktop Visualiztion </li>
     - Focused on how to best organize Data as it is imported, including 
       - How to Align Data 
       - Hierarchies within the Data 
       - Visual Relationships between Data 
-  - Power BI Service 
+  <li> Power BI Service </li>
     - Educated on how to feature Questions, Share a Dashbaord, and how to upload information onto the Power BI service 
-  - Working with Excel
+  <li> Working with Excel </li>
     - Learned to import Excel Data
     - Demonstarted ability to Connect to an Excel workbook via OneDrive for Business
-  - Direct Connectivity 
+  <li> Direct Connectivity </li>
     - Educated users on muliple different connection types including SQL Database, SSAS Connector, and SAP HANA
-  - Developer API 
+  <li> Developer API </li>
     - Focused on how developers can use Power BI to help them with their projects
-  - Mobile App 
+  <li> Mobile App </li>
     - Learned about the capabilities of Power BI on Apple and Android products 
-
-<summary> Certification </summary> 
-<details>
+  </ul>
+  </details>
 
 ![Training Completion Verification](https://user-images.githubusercontent.com/54654991/65929035-e87bca00-e3c5-11e9-90ec-5ceb307854f6.jpg)
 
-</details> 
-
-<summary> Key Deliverables </summary>
-<details>
-  
+#### Key Deliverables 
  - Created dashboard based off of "Customer Profitability" Data provided by Microsoft 
  ![0001](https://user-images.githubusercontent.com/54654991/65926661-f62c5200-e3bb-11e9-8fd8-102b2bd97321.jpg)
  - Published video explaining information on Customer Profitiability dashboard. This video can be found [_here_](https://youtu.be/aT6eyjUjpxE). 
- </details>
  
 ### LPI Linux Essentials 
 [_Linux Academy's LPI Linux Essentials_](https://linuxacademy.com/cp/modules/view/id/346) training program was completed. This offered a high level look at the Linux Operating System through self guided videos and hands-on labs. Offered an introduction into using commands within Terminal on the MacOSX Operating System. 
 
- #### Training and Labs Completed </summary>
-  - Linux Community and a Career in Open Source
+ <summary>Training and Labs Completed </summary>
+ <details>
+  <ul><li> Linux Community and a Career in Open Source</li>
      - Linux Evolution and Operating Systems
      - Major Open-Source Applications
      - Open Source Software and Licensing 
      - ICT Skills and Working in Linux
-  - Finding your Way on a Linux System 
+  <li> Finding your Way on a Linux System </li>
      - Command Line Basics 
      - Using the Command Line to Get Help 
      - Using Directories and Listing Files 
      - Creating, Moving, and Deleting Files 
-  - The Power of the COmmand Line 
+  <li> The Power of the COmmand Line </li>
      - Archiving Files on Command Line 
      - Searching and Extraacting Data from Files 
      - Turing COmmands into a Script 
-  - The Linux Operating System 
+  <li> The Linux Operating System </li>
      - Choosing an Operating Systme 
      - Understanding Computer Hardware 
      - Where Data is Stored 
      - Your Computer on the Network 
-  - Security and File Permissions 
+  <li> Security and File Permissions </li>
      - Basic Security and Identifiying User Types 
      - Creating Groups and Users
      - Managing File Permissions and Ownership 
-     - Special Directories and Files 
+     - Special Directories and Files
+  </ul> 
+  </details>
 
 <summary> Key Deliverable </summary>
 
