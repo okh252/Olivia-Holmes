@@ -176,6 +176,9 @@ Created a VPN Algo Server using Ubuntu and Virtual Box.
   </ul> 
   </details>
 
+Upon Completion of Quizzes with a passing rate of 70%, the following certificate of compeltion was awarded. 
+![doc-3-page-001](https://user-images.githubusercontent.com/54654991/68060558-e1025600-fcce-11e9-80e2-dfac3dcb88c6.jpg)
+
 ### PowerShell Essentials Training
 
 
