@@ -95,8 +95,86 @@ Created a VPN Algo Server using Ubuntu and Virtual Box.
 ![photo](https://user-images.githubusercontent.com/54654991/67241754-a1f41b00-f419-11e9-84c8-9cd6911450bd.jpg)
 
 ### Amazon Web Services Training (AWS) 
+[_Linux Academy's AWS Essentials_](https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=AWS%20Essent) training program was completed. This offered a high level look at the AWS Console through self guided videos and hands-on labs. Offered an introduction into using Lambda. 
 
-
+ <details>
+  <summary>Training and Labs Completed </summary>
+ <ul><li> Account Basics </li>
+     - AWS Free Tier <br>
+     - Create an Account <br>
+     - Navigating the AWS Console <br>
+     - Creating a Billing Alarm <br>
+     - AWS Documentation <br>
+  <li> Managing AWS with Users, Groups and Roles </li>
+     - What is IAM? <br>
+     - IAM Initial Setup and Configuration <br>
+     - IAM Users and Policies <br>
+     - IAM Groups and Policies <br>
+     - IAM Roles <br>
+  <li> Networking Services and Community </li>
+     - AWS Global Infrastructure<br>
+     - VPC Basics <br>
+     - Internet Gateways (IGW) <br>
+     - Rout Tables (RTs) <br>
+     - Network Access Control List (NACLs) <br>
+     - Subnets <br>
+     - Availability Zones <br>
+  <li> Compute Services </li>
+     - EC2 Basics <br>
+     - Amazon Machine Images (AMIs) <br>
+     - Instance Types <br>
+     - Elastic Block Storage (EBS) <br>
+     - Security Groups <br>
+     - IP Addressing <br>
+     - Launching and Using an EC2 Instance <br>
+     - Connecting to an EC2 Instance from a Windows PC <br>
+  <li> Security and File Permissions </li>
+     - Basic Security and Identifiying User Types <br>
+     - Creating Groups and Users <br>
+     - Managing File Permissions and Ownership <br>
+     - Special Directories and Files <br>
+  <li> Compute Services </li>
+     - EC2 Basics <br>
+     - Amazon Machine Images (AMIs) <br>
+     - Instance Types <br>
+     - Elastic Block Storage (EBS) <br>
+     - Security Groups <br>
+     - IP Addressing <br>
+     - Launching and Using an EC2 Instance <br>
+     - Connecting to an EC2 Instance from a Windows PC <br>
+  <li> Storage Services </li>
+     - S3 Basics <br>
+     - Buckets and Objects <br>
+     - Storage Classes <br>
+     - Object Lifecycles <br>
+     - Permissions <br>
+     - Object Versioning <br>
+  <li> Database Services </li>
+     - RDS and DynamoDB Bascias <br>
+     - Provisioning a RDS (MySQL) <br>
+  <li> Monitoring, Alerts and Notifications </li>
+     - SNS Bascis <br>
+     - Using SNS <br>
+     - Introduction to Management Tools <br>
+     - CloudWatch Basics <br>
+     - CloudWatch Metrics and Alarms <br>
+     - CloudTrail - Basics br>
+  <li> Load Balancing, Elasticity, and Scalability </li>
+     - ELB Basics <br>
+     - Creating an ELB <br>
+     - Introduction to Auto Scaling <br>
+     - Auto Scaling Basics <br>
+     - Using Auto Scaling <br>
+     - Introduction to Route 53 <br>
+     - Route 53 Basics <br>
+     - Using Route 53 <br>
+     - CloudFront Basics <br>
+  <li> Serverless Compute </li>
+     - Introduction to Lambda <br>
+     - Lambda Basics <br>
+     - Lambda Test <br>
+  </ul> 
+  </details>
 
 ### PowerShell Essentials Training
 
