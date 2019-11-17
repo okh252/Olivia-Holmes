@@ -42,9 +42,10 @@ GitHub Training gave users the opportunity to become more familar with their ser
   <li> Mobile App </li>
     - Learned about the capabilities of Power BI on Apple and Android products 
   </ul>
-  </details>
 
 ![Training Completion Verification](https://user-images.githubusercontent.com/54654991/65929035-e87bca00-e3c5-11e9-90ec-5ceb307854f6.jpg)
+
+  </details>
 
 #### Key Deliverables 
  - Created dashboard based off of "Customer Profitability" Data provided by Microsoft 
@@ -174,10 +175,12 @@ Created a VPN Algo Server using Ubuntu and Virtual Box. Creating these servers a
      - Lambda Basics <br>
      - Lambda Test <br>
   </ul> 
-  </details>
+
 
 Upon Completion of Quizzes with a passing rate of 70%, the following certificate of completion was awarded. 
 ![doc-3-page-001](https://user-images.githubusercontent.com/54654991/68060558-e1025600-fcce-11e9-80e2-dfac3dcb88c6.jpg)
+
+</details> 
 
 ### PowerShell Essentials Training
 [_PowerShell Essentials Training_](https://www.linkedin.com/learning/powershell-5-essential-training) gave a brief overview on how to do the basics with Command Line. This course gave an overview of all the endless possibilities with PowerShell. 
