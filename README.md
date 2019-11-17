@@ -15,7 +15,7 @@ GitHub Training gave users the opportunity to become more familar with their ser
 
 
 ### Power BI Training 
-[_Analyzing and Visualizing Data_](https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2019/course/) via edx.org gives users an introduction about the endless possibilities with this Microsoft service. It involves multiple labs and videos to gain knowledge over the features of Power BI Desktop and Power BI Online. Users learned everything from accessing data from different sources to creating visualizations in reports and dashboards. 
+[_Analyzing and Visualizing Data_](https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2019/course/) via edx.org gives users an introduction about the endless possibilities with this Microsoft service. It involves multiple labs and videos to gain knowledge over the features of Power BI Desktop and Power BI Online. Users learned everything from accessing data from different sources to creating visualizations in reports and dashboards. Specifically, I learned how to utilize the measure tool to derive data and then create meaningful diagrams to allow for ease of decision making. 
 <details>
 <summary> Training Videos and Labs Completed </summary>
   <ul><li> Power BI Desktop Data Transformations </li>
@@ -90,12 +90,12 @@ Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to
 
 
 ### IPsec and Open VPN Server Build 
-Created a VPN Algo Server using Ubuntu and Virtual Box. 
+Created a VPN Algo Server using Ubuntu and Virtual Box. Creating these servers allows an individual to gain skills with WireGuard, Terminal, and Digital Ocean. By creating this server in both Digital Ocean and AWS, gained valuable experience in setting up and working with virtual servers. 
 
 ![photo](https://user-images.githubusercontent.com/54654991/67241754-a1f41b00-f419-11e9-84c8-9cd6911450bd.jpg)
 
 ### Amazon Web Services Training (AWS) 
-[_Linux Academy's AWS Essentials_](https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=AWS%20Essent) training program was completed. This offered a high level look at the AWS Console through self guided videos and hands-on labs. Offered an introduction into using Lambda. 
+[_Linux Academy's AWS Essentials_](https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=AWS%20Essent) training program was completed. This offered a high level look at the AWS Console through self guided videos and hands-on labs. The most important features that were utilized were the EC2 instances, setting up proper Identity Management Services,and using Amazon Storage Services. This course emphasized how all parts of Amazon Web Servies are integrated, and gave an introduction on how to manage them together. Additionally, it offered an introduction into using Lambda as a programming language. 
 
  <details>
   <summary>Training and Labs Completed </summary>
@@ -176,11 +176,27 @@ Created a VPN Algo Server using Ubuntu and Virtual Box.
   </ul> 
   </details>
 
-Upon Completion of Quizzes with a passing rate of 70%, the following certificate of compeltion was awarded. 
+Upon Completion of Quizzes with a passing rate of 70%, the following certificate of completion was awarded. 
 ![doc-3-page-001](https://user-images.githubusercontent.com/54654991/68060558-e1025600-fcce-11e9-80e2-dfac3dcb88c6.jpg)
 
 ### PowerShell Essentials Training
+[_PowerShell Essentials Training_](https://www.linkedin.com/learning/powershell-5-essential-training) gave a brief overview on how to do the basics with Command Line. This course gave an overview of all the endless possibilities with PowerShell. 
 
+<details>
+  <summary>Learning Objectives </summary>
+ <ul><li>Installing Windows Management Framework 5 
+ <li> Running commands (cmdlets)
+ <li>Discovering commands</li>
+ <li>Understanding cmdlet syntax</li>
+ <li>Resolving terse commands</li>
+ <li>Finding and using local modules</li>
+ <li>Working with files, printers, CSVs, and XML in the pipeline</li>
+ <li>Selecting, sorting, and filtering object data</li>
+ <li>Creating scripts</li>
+ <li>Automating tasks</li>
+ <li>Using PowerShell remoting</li> 
+
+Upon completing the PowerShell Training course, I was awarded the following certificate. ![CertificateOfCompletion_Powershell 5 Essential Training_page-0001](https://user-images.githubusercontent.com/54654991/69014102-5bc4a580-094c-11ea-898c-25530023d433.jpg)
 
 
 ### Trailhead Salesforce Administration Beginner Training
