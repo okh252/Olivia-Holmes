@@ -1,7 +1,7 @@
 ## _Technical Skills Resume_
 
 ### GitHub Training
-GitHub Training gave users the opportunity to become more familar with their service through various activites. This program walks users through how to update and create projects, as well as collaborate with other individuals on teams. Some skills touched on in this training are the use of Markdown, Jekyll and GitHub Pages.
+GitHub Training gave me the opportunity to become more familar with their service through various activites. This program walks me through how to update and create projects, as well as collaborate with other individuals on teams. Some skills touched on in this training are the use of Markdown, Jekyll and GitHub Pages. The key takeaway I had from this training is that GitHub is intuitive for groups working together on a project, and allows for communication between individuals to improve productivity. 
 
   - [First Day on Github Training Completed](https://lab.github.com/githubtraining/paths/first-day-on-github) 
      - Learned about the resources and benefits of utilizing GitHub
@@ -15,12 +15,13 @@ GitHub Training gave users the opportunity to become more familar with their ser
 
 
 ### Power BI Training 
-[_Analyzing and Visualizing Data_](https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2019/course/) via edx.org gives users an introduction about the endless possibilities with this Microsoft service. It involves multiple labs and videos to gain knowledge over the features of Power BI Desktop and Power BI Online. Users learned everything from accessing data from different sources to creating visualizations in reports and dashboards. Specifically, I learned how to utilize the measure tool to derive data and then create meaningful diagrams to allow for ease of decision making. 
+[_Analyzing and Visualizing Data_](https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2019/course/) via edx.org gives me an introduction about the endless possibilities with this Microsoft service. It involves multiple labs and videos to gain knowledge over the features of Power BI Desktop and Power BI Online. I learned everything from accessing data from different sources such as Microsoft Excel or Azure Databases, to creating visualizations in reports and dashboards. Specifically, I learned how to utilize the measure tool to derive data and then create meaningful diagrams to allow for ease of decision making. 
+
 <details>
 <summary> Training Videos and Labs Completed </summary>
   <ul><li> Power BI Desktop Data Transformations </li>
-    - Focused on imrpving data quality in order to make meaningful visualations <br>
-    - Included typifying columnns, sliptting columns, and merging queries 
+    - Focused on improving data quality in order to make meaningful visualations <br>
+    - Included typifying columnns, splitting columns, and merging queries 
   <li> Power BI Desktop Modeling  </li>
     - Emphasized how to utilize tables and data relationships <br>
     - Learned how to utilize the measure function for data to improve quality <br>
@@ -45,15 +46,17 @@ GitHub Training gave users the opportunity to become more familar with their ser
 
 ![Training Completion Verification](https://user-images.githubusercontent.com/54654991/65929035-e87bca00-e3c5-11e9-90ec-5ceb307854f6.jpg)
 
-  </details>
+
 
 #### Key Deliverables 
- - Created dashboard based off of "Customer Profitability" Data provided by Microsoft 
+ - I created dashboard based off of ["Customer Profitability"](https://docs.microsoft.com/en-us/power-bi/sample-customer-profitability) Data provided by Microsoft 
  ![0001](https://user-images.githubusercontent.com/54654991/65926661-f62c5200-e3bb-11e9-8fd8-102b2bd97321.jpg)
- - Published video explaining information on Customer Profitiability dashboard. This video can be found [_here_](https://youtu.be/aT6eyjUjpxE). 
+ - I published a video explaining the dashboard I created and how I believe this data may be useful to users. This video can be found [_here_](https://youtu.be/aT6eyjUjpxE). 
+ 
+ </details> 
  
 ### LPI Linux Essentials 
-[_Linux Academy's LPI Linux Essentials_](https://linuxacademy.com/cp/modules/view/id/346) training program was completed. This offered a high level look at the Linux Operating System through self guided videos and hands-on labs. Offered an introduction into using commands within Terminal on the MacOSX Operating System. 
+[_Linux Academy's LPI Linux Essentials_](https://linuxacademy.com/cp/modules/view/id/346) training program was completed. This offered a high level look at the Linux Operating System through self guided videos and hands-on labs. The biggest takeaway I had from this experience is learning to be comfortable using commands within Terminal on the MacOSX Operating System. Additioanly, I learned about different Operating Systems as well as why it may be important to understand how to use each of these different systems, and the security each system provides. 
  
  <details>
   <summary>Training and Labs Completed </summary>
@@ -82,7 +85,7 @@ GitHub Training gave users the opportunity to become more familar with their ser
      - Managing File Permissions and Ownership <br>
      - Special Directories and Files <br>
   </ul> 
-  </details>
+  
 
 #### Key Deliverable 
 Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to be passed at 70%.
@@ -90,13 +93,15 @@ Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to
 ![Certification](https://user-images.githubusercontent.com/54654991/66728605-81213980-ee0b-11e9-98bc-1de44efd9607.png)
 
 
+</details>
+
 ### IPsec and Open VPN Server Build 
 Created a VPN Algo Server using Ubuntu and Virtual Box. Creating these servers allows an individual to gain skills with WireGuard, Terminal, and Digital Ocean. By creating this server in both Digital Ocean and AWS, gained valuable experience in setting up and working with virtual servers. 
 
 ![photo](https://user-images.githubusercontent.com/54654991/67241754-a1f41b00-f419-11e9-84c8-9cd6911450bd.jpg)
 
 ### Amazon Web Services Training (AWS) 
-[_Linux Academy's AWS Essentials_](https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=AWS%20Essent) training program was completed. This offered a high level look at the AWS Console through self guided videos and hands-on labs. The most important features that were utilized were the EC2 instances, setting up proper Identity Management Services,and using Amazon Storage Services. This course emphasized how all parts of Amazon Web Servies are integrated, and gave an introduction on how to manage them together. Additionally, it offered an introduction into using Lambda as a programming language. 
+[_Linux Academy's AWS Essentials_](https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=AWS%20Essent) training program was completed. This offered a high level look at the AWS Console through self guided videos and hands-on labs. The most important features that were utilized were the EC2 instances, setting up proper Identity Management Services,and using Amazon Storage Services. This course emphasized how all parts of Amazon Web Servies are integrated, and gave an introduction on how to manage them together. Additionally, it offered an introduction into using Lambda as a programming language. One of the most useful features discussed was the ability to set control limits for billing in order to minimize costs. 
 
  <details>
   <summary>Training and Labs Completed </summary>
