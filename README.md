@@ -188,7 +188,7 @@ Upon Completion of Quizzes with a passing rate of 70%, the following certificate
 </details> 
 
 ### PowerShell Essentials Training
-[_PowerShell Essentials Training_](https://www.linkedin.com/learning/powershell-5-essential-training) gave a brief overview on how to do the basics with Command Line. This course gave an overview of all the endless possibilities with PowerShell. 
+[_PowerShell Essentials Training_](https://www.linkedin.com/learning/powershell-5-essential-training) gave a brief overview on how to do the basics with Command Line. This course gave an overview of all the endless possibilities with PowerShell. Specifically, I learned the importance of using the get-help and worked with the get-service command throughout the duration of this course. 
 
 <details>
   <summary>Learning Objectives </summary>
