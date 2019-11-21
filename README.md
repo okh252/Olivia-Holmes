@@ -98,7 +98,12 @@ Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to
 ### IPsec and Open VPN Server Build 
 Created a VPN Algo Server using Ubuntu and Virtual Box. Creating these servers allows an individual to gain skills with WireGuard, Terminal, and Digital Ocean. By creating this server in both Digital Ocean and AWS, gained valuable experience in setting up and working with virtual servers. 
 
+<details>
+  <summary> Details </summary> 
+
 ![photo](https://user-images.githubusercontent.com/54654991/67241754-a1f41b00-f419-11e9-84c8-9cd6911450bd.jpg)
+
+</details> 
 
 ### Amazon Web Services Training (AWS) 
 [_Linux Academy's AWS Essentials_](https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=AWS%20Essent) training program was completed. This offered a high level look at the AWS Console through self guided videos and hands-on labs. The most important features that were utilized were the EC2 instances, setting up proper Identity Management Services,and using Amazon Storage Services. This course emphasized how all parts of Amazon Web Servies are integrated, and gave an introduction on how to manage them together. Additionally, it offered an introduction into using Lambda as a programming language. One of the most useful features discussed was the ability to set control limits for billing in order to minimize costs. 
@@ -188,7 +193,7 @@ Upon Completion of Quizzes with a passing rate of 70%, the following certificate
 </details> 
 
 ### PowerShell Essentials Training
-[_PowerShell Essentials Training_](https://www.linkedin.com/learning/powershell-5-essential-training) gave a brief overview on how to do the basics with Command Line. This course gave an overview of all the endless possibilities with PowerShell. Specifically, I learned the importance of using the get-help and worked with the get-service command throughout the duration of this course. 
+[_PowerShell Essentials Training_](https://www.linkedin.com/learning/powershell-5-essential-training) gave a brief overview on how to do the basics with Command Line. This course gave an overview of all the endless possibilities with PowerShell.I utilized a Mac Operating System and used the PowerShell core for this training. Specifically, I learned the importance of using the get-help and worked with the get-service command throughout the duration of this course. 
 
 <details>
   <summary>Learning Objectives </summary>
