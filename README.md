@@ -1,5 +1,9 @@
 ## _Technical Skills Resume_
 
+My name is Olivia Holmes and I am a senior at the University of Tulsa studying Computer Information Systems. Throughout the Fall 2019 Semester, I have had the opportuntiy to complete trainings over a variety of unique programs. Read on to see all that I have learned. 
+
+
+
 ### GitHub Training
 GitHub Training gave me the opportunity to become more familar with their service through various activites. This program walks me through how to update and create projects, as well as collaborate with other individuals on teams. Some skills touched on in this training are the use of Markdown, Jekyll and GitHub Pages. The key takeaway I had from this training is that GitHub is intuitive for groups working together on a project, and allows for communication between individuals to improve productivity. 
 
