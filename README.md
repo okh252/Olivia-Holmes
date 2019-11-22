@@ -210,6 +210,7 @@ Upon Completion of Quizzes with a passing rate of 70%, the following certificate
 </details> 
 
 Upon completing the PowerShell Training course, I was awarded the following certificate. 
+
 ![CertificateOfCompletion_Powershell 5 Essential Training_page-0001](https://user-images.githubusercontent.com/54654991/69014102-5bc4a580-094c-11ea-898c-25530023d433.jpg)
 
 
