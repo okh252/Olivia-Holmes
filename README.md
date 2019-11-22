@@ -46,6 +46,8 @@ GitHub Training gave me the opportunity to become more familar with their servic
   <li> Mobile App </li>
     - Learned about the capabilities of Power BI on Apple and Android products 
   </ul>
+  </details> 
+
 
 ![Training Completion Verification](https://user-images.githubusercontent.com/54654991/65929035-e87bca00-e3c5-11e9-90ec-5ceb307854f6.jpg)
 
@@ -56,7 +58,6 @@ GitHub Training gave me the opportunity to become more familar with their servic
  ![0001](https://user-images.githubusercontent.com/54654991/65926661-f62c5200-e3bb-11e9-8fd8-102b2bd97321.jpg)
  - I published a video explaining the dashboard I created and how I believe this data may be useful to users. This video can be found [_here_](https://youtu.be/aT6eyjUjpxE). 
  
- </details> 
  
 ### LPI Linux Essentials 
 [_Linux Academy's LPI Linux Essentials_](https://linuxacademy.com/cp/modules/view/id/346) training program was completed. This offered a high level look at the Linux Operating System through self guided videos and hands-on labs. The biggest takeaway I had from this experience is learning to be comfortable using commands within Terminal on the MacOSX Operating System. Additioanly, I learned about different Operating Systems as well as why it may be important to understand how to use each of these different systems, and the security each system provides. 
@@ -88,7 +89,7 @@ GitHub Training gave me the opportunity to become more familar with their servic
      - Managing File Permissions and Ownership <br>
      - Special Directories and Files <br>
   </ul> 
-  
+  </details>
 
 #### Key Deliverable 
 Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to be passed at 70%.
@@ -96,17 +97,12 @@ Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to
 ![Certification](https://user-images.githubusercontent.com/54654991/66728605-81213980-ee0b-11e9-98bc-1de44efd9607.png)
 
 
-</details>
 
 ### IPsec and Open VPN Server Build 
 Created a VPN Algo Server using Ubuntu and Virtual Box. Creating these servers allows an individual to gain skills with WireGuard, Terminal, and Digital Ocean. By creating this server in both Digital Ocean and AWS, gained valuable experience in setting up and working with virtual servers. 
 
-<details>
-  <summary> Details </summary> 
-
 ![photo](https://user-images.githubusercontent.com/54654991/67241754-a1f41b00-f419-11e9-84c8-9cd6911450bd.jpg)
-
-</details> 
+ 
 
 ### Amazon Web Services Training (AWS) 
 [_Linux Academy's AWS Essentials_](https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=AWS%20Essent) training program was completed. This offered a high level look at the AWS Console through self guided videos and hands-on labs. The most important features that were utilized were the EC2 instances, setting up proper Identity Management Services,and using Amazon Storage Services. This course emphasized how all parts of Amazon Web Servies are integrated, and gave an introduction on how to manage them together. Additionally, it offered an introduction into using Lambda as a programming language. One of the most useful features discussed was the ability to set control limits for billing in order to minimize costs. 
@@ -188,12 +184,12 @@ Created a VPN Algo Server using Ubuntu and Virtual Box. Creating these servers a
      - Lambda Basics <br>
      - Lambda Test <br>
   </ul> 
-
+</details>
 
 Upon Completion of Quizzes with a passing rate of 70%, the following certificate of completion was awarded. 
 ![doc-3-page-001](https://user-images.githubusercontent.com/54654991/68060558-e1025600-fcce-11e9-80e2-dfac3dcb88c6.jpg)
 
-</details> 
+
 
 ### PowerShell Essentials Training
 [_PowerShell Essentials Training_](https://www.linkedin.com/learning/powershell-5-essential-training) gave a brief overview on how to do the basics with Command Line. This course gave an overview of all the endless possibilities with PowerShell.I utilized a Mac Operating System and used the PowerShell core for this training. Specifically, I learned the importance of using the get-help and worked with the get-service command throughout the duration of this course. 
@@ -211,10 +207,10 @@ Upon Completion of Quizzes with a passing rate of 70%, the following certificate
  <li>Creating scripts</li>
  <li>Automating tasks</li>
  <li>Using PowerShell remoting</li> 
+</details> 
 
 Upon completing the PowerShell Training course, I was awarded the following certificate. ![CertificateOfCompletion_Powershell 5 Essential Training_page-0001](https://user-images.githubusercontent.com/54654991/69014102-5bc4a580-094c-11ea-898c-25530023d433.jpg)
 
-</details> 
 
 ### Trailhead Salesforce Administration Beginner Training
 
