@@ -189,15 +189,6 @@ Created a VPN Algo Server using Ubuntu and Virtual Box. Creating these servers a
 Upon Completion of Quizzes with a passing rate of 70%, the following certificate of completion was awarded. 
 ![doc-3-page-001](https://user-images.githubusercontent.com/54654991/68060558-e1025600-fcce-11e9-80e2-dfac3dcb88c6.jpg)
 
-### Trailhead Salesforce Administration Beginner Training
-[_Trailhead Salesforce Administration Beginner Training_](https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner) equipped me to be more familiar with the Salesforce technology. Primarily, I learned how to navigate the Salesforce web page, as well as learned more about what it can be used for in the context of the DreamHouse reality scenario. Finally, I learned how reports and dashboard are interlinked and how to create, modify, and filter them to create meaningful data for our business needs. 
-
-Upon Completion of the SalesForce training, I received badges as well as a proof of completion. 
-
-![Screen Shot 2019-12-06 at 11 07 08 AM-page-001](https://user-images.githubusercontent.com/54654991/70341881-84d4a980-1819-11ea-97e0-7f790cad5b34.jpg)
-
-![Screen Shot 2019-12-06 at 11 08 22 AM-page-001](https://user-images.githubusercontent.com/54654991/70342690-290b2000-181b-11ea-96b7-28d15f09c802.jpg)
-
 
 ### PowerShell Essentials Training
 [_PowerShell Essentials Training_](https://www.linkedin.com/learning/powershell-5-essential-training) gave a brief overview on how to do the basics with Command Line. This course gave an overview of all the endless possibilities with PowerShell.I utilized a Mac Operating System and used the PowerShell core for this training. Specifically, I learned the importance of using the get-help and worked with the get-service command throughout the duration of this course. 
@@ -221,3 +212,13 @@ Upon completing the PowerShell Training course, I was awarded the following cert
  <li>Using PowerShell remoting </li> 
   </ul>
 </details> 
+
+
+### Trailhead Salesforce Administration Beginner Training
+[_Trailhead Salesforce Administration Beginner Training_](https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner) equipped me to be more familiar with the Salesforce technology. Primarily, I learned how to navigate the Salesforce web page, as well as learned more about what it can be used for in the context of the DreamHouse reality scenario. Finally, I learned how reports and dashboard are interlinked and how to create, modify, and filter them to create meaningful data for our business needs. 
+
+Upon Completion of the SalesForce training, I received badges as well as a proof of completion. 
+
+![Screen Shot 2019-12-06 at 11 07 08 AM-page-001](https://user-images.githubusercontent.com/54654991/70341881-84d4a980-1819-11ea-97e0-7f790cad5b34.jpg)
+
+![Screen Shot 2019-12-06 at 11 08 22 AM-page-001](https://user-images.githubusercontent.com/54654991/70342690-290b2000-181b-11ea-96b7-28d15f09c802.jpg)
