@@ -207,6 +207,7 @@ Upon Completion of Quizzes with a passing rate of 70%, the following certificate
  <li>Creating scripts</li>
  <li>Automating tasks</li>
  <li>Using PowerShell remoting</li> 
+ </ul>
 </details> 
 
 Upon completing the PowerShell Training course, I was awarded the following certificate. 
