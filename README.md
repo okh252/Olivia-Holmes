@@ -219,8 +219,6 @@ Upon completing the PowerShell Training course, I was awarded the following cert
 
 Upon Completion of the SalesForce training, I received badges as well as a proof of completion. 
 
-
-
 ![Screen Shot 2019-12-06 at 11 07 08 AM-page-001](https://user-images.githubusercontent.com/54654991/70341881-84d4a980-1819-11ea-97e0-7f790cad5b34.jpg)
 
-
+![Screen Shot 2019-12-06 at 11 08 22 AM-page-001](https://user-images.githubusercontent.com/54654991/70342690-290b2000-181b-11ea-96b7-28d15f09c802.jpg)
