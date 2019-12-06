@@ -196,18 +196,18 @@ Upon Completion of Quizzes with a passing rate of 70%, the following certificate
 
 <details>
   <summary>Learning Objectives </summary>
- <ul><li>Installing Windows Management Framework 5 
- <li> Running commands (cmdlets)
- <li>Discovering commands</li>
- <li>Understanding cmdlet syntax</li>
- <li>Resolving terse commands</li>
- <li>Finding and using local modules</li>
- <li>Working with files, printers, CSVs, and XML in the pipeline</li>
- <li>Selecting, sorting, and filtering object data</li>
- <li>Creating scripts</li>
- <li>Automating tasks</li>
- <li>Using PowerShell remoting</li> 
- </ul>
+  <ul><li>Installing Windows Management Framework 5 </li> 
+   <li> Running commands (cmdlets) </li>
+ <li>Discovering commands </li> 
+ <li>Understanding cmdlet syntax </li>
+ <li>Resolving terse commands </li>
+ <li>Finding and using local modules </li>
+ <li>Working with files, printers, CSVs, and XML in the pipeline </li>
+ <li>Selecting, sorting, and filtering object data </li>
+ <li>Creating scripts </li>
+ <li>Automating tasks </li>
+ <li>Using PowerShell remoting </li> 
+  </ul>
 </details> 
 
 Upon completing the PowerShell Training course, I was awarded the following certificate. 
