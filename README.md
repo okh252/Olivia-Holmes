@@ -211,7 +211,7 @@ Upon Completion of Quizzes with a passing rate of 70%, the following certificate
 
 Upon completing the PowerShell Training course, I was awarded the following certificate. 
 
-![CertificateOfCompletion_Powershell 5 Essential Training_page-0001](https://user-images.githubusercontent.com/54654991/69014102-5bc4a580-094c-11ea-898c-25530023d433.jpg)
+![CertificateOfCompletion_Powershell 5 Essential Training-page-001](https://user-images.githubusercontent.com/54654991/70344410-50fc8280-181f-11ea-9392-823ee557588a.jpg)
 
 
 ### Trailhead Salesforce Administration Beginner Training
