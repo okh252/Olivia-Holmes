@@ -105,7 +105,9 @@ Created a VPN Algo Server using Ubuntu and Virtual Box. Creating these servers a
 
 ![SCREENSHOT](https://user-images.githubusercontent.com/54654991/70571706-f5eec680-1b63-11ea-8ad7-93278677e97c.png)
 
- 
+![open VPN (1)](https://user-images.githubusercontent.com/54654991/70571842-30586380-1b64-11ea-83e6-a9bdff9a1013.PNG)
+
+![OpenVPN (1)](https://user-images.githubusercontent.com/54654991/70571843-30f0fa00-1b64-11ea-9460-689690302f8f.PNG)
 
 ### Amazon Web Services Training (AWS) 
 [_Linux Academy's AWS Essentials_](https://linuxacademy.com/cp/modules/view/id/241?redirect_uri=https://app.linuxacademy.com/search?query=AWS%20Essent) training program was completed. This offered a high level look at the AWS Console through self guided videos and hands-on labs. The most important features that were utilized were the EC2 instances, setting up proper Identity Management Services,and using Amazon Storage Services. This course emphasized how all parts of Amazon Web Servies are integrated, and gave an introduction on how to manage them together. Additionally, it offered an introduction into using Lambda as a programming language. One of the most useful features discussed was the ability to set control limits for billing in order to minimize costs. 
