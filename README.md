@@ -102,6 +102,9 @@ Upon Completion of the Videos and the Hands-on Labs, a Certification Exam had to
 Created a VPN Algo Server using Ubuntu and Virtual Box. Creating these servers allows an individual to gain skills with WireGuard, Terminal, and Digital Ocean. By creating this server in both Digital Ocean and AWS, gained valuable experience in setting up and working with virtual servers. 
 
 ![photo](https://user-images.githubusercontent.com/54654991/67241754-a1f41b00-f419-11e9-84c8-9cd6911450bd.jpg)
+
+![SCREENSHOT](https://user-images.githubusercontent.com/54654991/70571706-f5eec680-1b63-11ea-8ad7-93278677e97c.png)
+
  
 
 ### Amazon Web Services Training (AWS) 
